@@ -29,4 +29,4 @@ To start the game, run the following command in your terminal:
 
 John Sims - jos0007@auburn.edu
 
-Project Link: [https://github.com/chimefever/SpaceGame](https://github.com/chimefever/SpaceGame)
+Project Link: [https://github.com/simsjack30/SpaceGame](https://github.com/simsjack30/SpaceGame)
